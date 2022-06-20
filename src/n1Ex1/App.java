@@ -1,6 +1,6 @@
 package n1Ex1;
 
-public class NoGenericMethods {
+public class App {
     
      public static void main(String[] args) {
         
